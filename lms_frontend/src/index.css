@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+/* custom */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif, 'Blaka', cursive;
+  transition: all 0.1s linear;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*------------- Navbar Starts----------- */
+
+/*------------- Navbar Starts----------- */
+
+.heartIcon1 {
+  padding: 0px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 2rem;
+  color: #ff4d4d;
+  border: none;
+  background-color: #fff;
+}
+
+.heartIcon2 {
+  padding: 0px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 2rem;
+  color: #990000;
+  border: none;
+  background-color: #fff;
+}
+
+.profileIcon {
+  font-size: 2rem;
+  color: #990000;
+  border: none;
+  background-color: #fff;
+}
+.mailIcon {
+  padding: 0px;
+  font-size: 1.2rem;
+  color: #990000;
+  border: none;
+  background-color: #fff;
+}
+/* ----- Footer  Section starts  ------------*/
+footer {
+  padding: 1rem 0;
+  background-color: #05133c;
+  color: #fff;
+}
+
+footer h2 {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+footer li {
+  list-style: none;
+  font-size: 1rem;
+  font-weight: lighter;
+  color: #fff;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+footer li a {
+  color: #fff;
+}
+
+footer li:hover {
+  color: var(--primary-color);
+}
+
+footer .social-link a {
+  font-size: 2rem;
+  color: lightseagreen;
+  transition: 0.3s;
+}
+
+footer .social-link a:hover {
+  color: #fff;
+}
+
+footer .main-hero-para {
+  margin: 0;
+}
+/* ------- Footer  Section ends -------- */

@@ -1,0 +1,4 @@
+env/
+lms_api/course_imgs/
+lms_api/media/
+lsm_frontend/node_modules
